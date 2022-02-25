@@ -1,37 +1,17 @@
-### Hi there 👋
+# Hola 👋, bienvenido a mi repositorio
+## Me llamo Heyner Fernando Cruz Guzmán y soy estudiante de Ing. Desarrollo de software 
+[![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/heyner-fernando-cruz-guzm%C3%A1n-1020001b9/) [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:heynerfernando2000@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Sobre mi
 
-<!--
-**heyner31/heyner31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **Aprendiendo :** Desarrollo web, AWS, APIS, Base de datos, Inteligencia de datros 	
+-  **Lenguajes faboritos :** Python, C#, JavaScript
+-  **Pasatiempos :** Jugar videojuegos y ver cursos de lo que sea
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-const  aboutMe  =  { 
-   pronombres : "él"  |  "él" , 
-   código : [ Javascript ,  Typescript ,  HTML ,  CSS ,  Python ,  Java ,  CSharp ,  Kotlin ,  Swift ] , 
-   tecnologías : { 
-      frontEnd : { 
-         js : [ "Reaccionar" ,  "Angular" ] , 
-         css : [ "Materializar" ,  "bulma",  "Bootstrap" ,  "Diseño de materiales" ,  "IU semántica" ] 
-      } , 
-      backEnd : { 
-         java : [ "Spring" ] , 
-         js : [ "Node" ,  "Express" ] , 
-         csharp : [ "Asp.net Core" ] , 
-         misc : [ "Bash" ,  "Titiritero" ,  "Selenium" ,  "Cypress" ] 
-      } , bases de 
-      datos :[ "MongoDB" , "mySQL" ,  "SQLServer" ] , 
-      mobile : [ "Android" ,  "IOS" ] 
-   } , 
-   currentOccupation : [ "estudiante del último año, abierto a oportunidades laborales" ] , 
-   challenge : "Estoy trabajando para poder ejecutar un maratón." , 
-} ;
+![github stats](https://github-readme-stats.vercel.app/api?username=heyner31_icons=true)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<a href="https://github.com/heyner31">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyner31&layout=compact" />
+</a>
