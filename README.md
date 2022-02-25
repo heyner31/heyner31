@@ -10,7 +10,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=heyner31_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=heyner31&hide=["stars"]&show_icons=true)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://github.com/heyner31">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyner31&layout=compact" />
