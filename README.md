@@ -5,7 +5,7 @@
 ### Sobre mi
 
 -  **Aprendiendo :** Desarrollo web, AWS, APIS, Base de datos, Inteligencia de datros 	
--  **Lenguajes faboritos :** Python, C#, JavaScript
+-  **Lenguajes favoritos :** Python, C#, JavaScript
 -  **Pasatiempos :** Jugar videojuegos y ver cursos de lo que sea
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
