@@ -1,6 +1,6 @@
 # Hola 👋, bienvenido a mi repositorio
 ## Me llamo Heyner Fernando Cruz Guzmán y soy Ing. Desarrollo de software 
-[![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/heyner-fernando-cruz-guzm%C3%A1n-1020001b9/) [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:heynerfernando2000@gmail.com)
+[![Linkedin Badge](https://www.linkedin.com/in/heyner-fernando-cruz-guzm%C3%A1n-1020001b9/) [![Gmail Badge](mailto:heynerfernando2000@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Sobre mi
 
